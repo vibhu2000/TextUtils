@@ -1,0 +1,12 @@
+npx create-react-app my-app	(create react project)
+npm start			(to run)
+
+npm install			(again download node modules)
+
+node .\module1.mjs		(running module)
+
+https://www.favicon-generator.org/          (create different size icones)
+
+npm install react-router-dom        (download react router)
+npm uninstall react-router-dom
+npm install react-router-dom@5.2.0
