@@ -1,0 +1,13 @@
+--Node js
+--VS Code
+--React Developers Tool (Chrome Extention)
+
+VS Code Extention
+--Thunder Client 
+--ES7 React/Redux/GraphQL/React-Native snippets
+--Bracket Pair Colorizer
+--Auto Rename Tag
+--Live Server
+--Prettier - Code formatter
+
+vs code -> settings -> write "emmet" -> item-javascript & Value-javascriptreact
